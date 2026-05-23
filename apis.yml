@@ -1,0 +1,62 @@
+aid: imbue
+name: Imbue
+description: >-
+  Imbue is a San Francisco AI research lab building agentic foundation models
+  for reasoning and the human tooling around them, with a stated mission of AI
+  that is loyal to its user. The team trains large reasoning models in-house
+  (including a 70B model trained from scratch with open-sourced tooling and
+  evaluation datasets) and publishes research on agent and reasoning
+  architectures, reinforcement learning, data generation, and the scientific
+  theory of deep learning. Imbue ships practical tools that emerge from the
+  research, including Sculptor and mngr for orchestrating parallel coding
+  agents, Bouncer for filtering social feeds, and Blueprint and Vet. There is
+  no public commercial inference API; integration happens through
+  open-sourced repositories, model artifacts on Hugging Face, and research
+  releases.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI
+  - Research
+  - Foundation Models
+  - Agents
+  - Reasoning
+  - Coding Agents
+  - Reinforcement Learning
+  - Open Source
+  - Hugging Face
+apis: []
+common:
+  - type: Website
+    url: https://imbue.com/
+  - type: Research
+    url: https://imbue.com/research/
+  - type: Blog
+    url: https://imbue.com/blog/
+  - type: Sculptor
+    url: https://imbue.com/sculptor/
+  - type: Mngr
+    url: https://imbue.com/mngr/
+  - type: Bouncer
+    url: https://imbue.com/bouncer/
+  - type: 70BResearch
+    url: https://imbue.com/research/70b-intro/
+  - type: HuggingFace
+    url: https://huggingface.co/imbue
+  - type: GitHubOrganization
+    url: https://github.com/imbue-ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/imbue-ai/
+  - type: X
+    url: https://x.com/imbue_ai
+  - type: Careers
+    url: https://imbue.com/careers/
+url: https://raw.githubusercontent.com/api-evangelist/imbue/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
