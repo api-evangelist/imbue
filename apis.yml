@@ -29,6 +29,16 @@ position: Provider
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/imbue.png
 tags:
+  - Artificial Intelligence
+  - Research
+  - Foundation Models
+  - Agents
+  - Reasoning
+  - Coding Agents
+  - Reinforcement Learning
+  - Open-Source
+  - Hugging Face
+tags_raw:
   - AI
   - Research
   - Foundation Models
