@@ -47,7 +47,7 @@ tags:
   - Reasoning
   - Coding Agents
   - Reinforcement Learning
-  - Open-Source
+  - Open Source
   - Hugging Face
 tags_raw:
   - AI
@@ -59,6 +59,7 @@ tags_raw:
   - Reinforcement Learning
   - Open Source
   - Hugging Face
+  - Open-Source
 apis: []
 common:
   - type: DomainSecurity
