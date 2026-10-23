@@ -92,6 +92,37 @@ edges:
     detected: '2026-10-20'
   detected_by: sweep-agent-skills.py
   first_seen: '2026-10-20'
+- partner_name: Hugging Face (hugging-face-hub)
+  partner: hugging-face
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: hugging-face-hub
+  evidence: https://huggingface.co/imbue
+  mirror_of: hugging-face/integrations/hugging-face-integration-edges.yml
+  apps:
+  - imbue/code-comprehension
+  - imbue/high_quality_private_evaluations
+  - imbue/high_quality_public_evaluations
+  - imbue/human_question_quality_judgments_openbookqa
+  - imbue/human_question_quality_judgments_boolq
+  - imbue/human_question_quality_judgments
+  - imbue/llama3-question-quality
+  - imbue/gemma-3-4b-it-vision-q4f16_1-mlc
+  - imbue/internvl3_5-4b-q4f16_1-mlc
+  - imbue/Qwen3.5-4B-q4f16_1-MLC
+  - imbue/Qwen3.5-4B-vision-q4f16_1-MLC
+  - imbue/Qwen3.5-4B-q4f16_1-MLC-2
+  - imbue/Qwen3.5-4B-vision-q4f16_1-MLC-2
+  listing_count: 2
+  detected: '2026-10-23'
+  detected_by: mirror-platform-listings.py
+  category: Hugging Face Hub datasets
+  badges:
+  - Verified publisher (Hugging Face verified organisation)
 generated: '2026-10-20'
 method: searched
 source:
@@ -103,3 +134,4 @@ checked:
 - https://officialskills.sh/sitemap.xml
 - https://skillsmp.com/sitemap.xml
 - https://www.skills.sh/sitemap.xml
+- hugging-face/integrations/hugging-face-integration-edges.yml
